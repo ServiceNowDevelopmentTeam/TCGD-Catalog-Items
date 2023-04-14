@@ -6,7 +6,7 @@
         <question display_value="Is this role included in your yearly budget?">f14619f31b42e5108c5143f3cc4bcb5a</question>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2023-04-14 19:58:10</sys_created_on>
+        <sys_created_on>2023-04-14 20:04:09</sys_created_on>
         <sys_id>f396a10c1b5a29108c5143f3cc4bcbf6</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Yes</sys_name>
@@ -15,7 +15,7 @@
         <sys_scope display_value="TCGD Catalog Items">c925dd331b42e5108c5143f3cc4bcbf0</sys_scope>
         <sys_update_name>question_choice_f396a10c1b5a29108c5143f3cc4bcbf6</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-04-14 20:02:06</sys_updated_on>
+        <sys_updated_on>2023-04-14 20:07:31</sys_updated_on>
         <text>Yes</text>
         <value>yes</value>
     </question_choice>
