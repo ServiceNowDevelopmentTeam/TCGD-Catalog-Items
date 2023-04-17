@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="Is this position exempt or non exempt?">914a2a841b1269108c5143f3cc4bcbd6</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2023-04-17 13:43:20</sys_created_on>
+        <sys_id>954a2a841b1269108c5143f3cc4bcbdd</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Exempt (salary)</sys_name>
+        <sys_package display_value="TCGD Catalog Items" source="c925dd331b42e5108c5143f3cc4bcbf0">c925dd331b42e5108c5143f3cc4bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TCGD Catalog Items">c925dd331b42e5108c5143f3cc4bcbf0</sys_scope>
+        <sys_update_name>question_choice_954a2a841b1269108c5143f3cc4bcbdd</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-04-17 16:44:34</sys_updated_on>
+        <text>Exempt (salary)</text>
+        <value>exempt_salary</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=954a2a841b1269108c5143f3cc4bcbdd"/>
+</record_update>
