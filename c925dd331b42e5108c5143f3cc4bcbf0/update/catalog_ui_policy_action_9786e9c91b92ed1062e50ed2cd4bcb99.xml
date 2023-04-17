@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
         <catalog_item display_value="TCGD Request Offer Letter">684a2a801b1269108c5143f3cc4bcb3b</catalog_item>
-        <catalog_variable>IO:0d4a2a841b1269108c5143f3cc4bcb99</catalog_variable>
+        <catalog_variable>IO:094a2a841b1269108c5143f3cc4bcb73</catalog_variable>
         <cleared>false</cleared>
         <disabled>ignore</disabled>
         <field/>
@@ -9,19 +9,19 @@
         <order>100</order>
         <sys_class_name>catalog_ui_policy_action</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2023-04-17 16:45:18</sys_created_on>
-        <sys_id>b9ee89091b12ed1062e50ed2cd4bcbe7</sys_id>
+        <sys_created_on>2023-04-17 18:28:38</sys_created_on>
+        <sys_id>9786e9c91b92ed1062e50ed2cd4bcb99</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name>supervising_others</sys_name>
+        <sys_name>other_branch_department</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="TCGD Catalog Items">c925dd331b42e5108c5143f3cc4bcbf0</sys_scope>
-        <sys_update_name>catalog_ui_policy_action_b9ee89091b12ed1062e50ed2cd4bcbe7</sys_update_name>
+        <sys_update_name>catalog_ui_policy_action_9786e9c91b92ed1062e50ed2cd4bcb99</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-04-17 18:23:08</sys_updated_on>
+        <sys_updated_on>2023-04-17 18:31:53</sys_updated_on>
         <table/>
-        <ui_policy display_value="Make 'supervising_others' mandatory &amp; visible depending on 'from_staffing_agency'">79ee89091b12ed1062e50ed2cd4bcbe5</ui_policy>
-        <variable>supervising_others</variable>
+        <ui_policy display_value="Make 'other_branch_department' mandatory &amp; visible depending on 'employed_other_branch'">5b86e9c91b92ed1062e50ed2cd4bcb97</ui_policy>
+        <variable>other_branch_department</variable>
         <variable_set/>
         <visible>true</visible>
     </catalog_ui_policy_action>

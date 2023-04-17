@@ -6,7 +6,7 @@
         <question display_value="Is this position exempt or non exempt?">914a2a841b1269108c5143f3cc4bcbd6</question>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2023-04-17 16:45:17</sys_created_on>
+        <sys_created_on>2023-04-17 18:28:36</sys_created_on>
         <sys_id>954a2a841b1269108c5143f3cc4bcbdd</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Exempt (salary)</sys_name>
@@ -15,7 +15,7 @@
         <sys_scope display_value="TCGD Catalog Items">c925dd331b42e5108c5143f3cc4bcbf0</sys_scope>
         <sys_update_name>question_choice_954a2a841b1269108c5143f3cc4bcbdd</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-04-17 18:23:10</sys_updated_on>
+        <sys_updated_on>2023-04-17 18:31:56</sys_updated_on>
         <text>Exempt (salary)</text>
         <value>exempt_salary</value>
     </question_choice>
