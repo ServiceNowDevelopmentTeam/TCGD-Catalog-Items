@@ -40,7 +40,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>internal_job_posting</name>
-        <order>500</order>
+        <order>600</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
@@ -73,16 +73,16 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2023-04-14 20:28:15</sys_created_on>
+        <sys_created_on>2023-04-17 21:18:28</sys_created_on>
         <sys_id>754619f31b42e5108c5143f3cc4bcb47</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Internal Job Posting Only?</sys_name>
         <sys_package display_value="TCGD Catalog Items" source="c925dd331b42e5108c5143f3cc4bcbf0">c925dd331b42e5108c5143f3cc4bcbf0</sys_package>
         <sys_policy/>
         <sys_scope display_value="TCGD Catalog Items">c925dd331b42e5108c5143f3cc4bcbf0</sys_scope>
         <sys_update_name>item_option_new_754619f31b42e5108c5143f3cc4bcb47</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-04-14 20:29:41</sys_updated_on>
+        <sys_updated_on>2023-04-17 21:29:51</sys_updated_on>
         <table/>
         <tooltip>Only for internal staff?</tooltip>
         <type>1</type>
