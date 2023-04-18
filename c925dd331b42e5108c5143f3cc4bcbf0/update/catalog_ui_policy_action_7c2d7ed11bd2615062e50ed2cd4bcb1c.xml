@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="TCGD Request Offer Letter">684a2a801b1269108c5143f3cc4bcb3b</catalog_item>
+        <catalog_variable>IO:9ab5f9111b1e215062e50ed2cd4bcb6d</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2023-04-18 19:25:24</sys_created_on>
+        <sys_id>7c2d7ed11bd2615062e50ed2cd4bcb1c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>annual_salary</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="TCGD Catalog Items">c925dd331b42e5108c5143f3cc4bcbf0</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_7c2d7ed11bd2615062e50ed2cd4bcb1c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-04-18 19:48:28</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'annual_salary' mandatory &amp; visible depending on 'position_type' &amp; 'from_staffing_agency'">742d7ed11bd2615062e50ed2cd4bcb0e</ui_policy>
+        <variable>annual_salary</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>
