@@ -73,7 +73,7 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2023-04-18 19:49:15</sys_created_on>
+        <sys_created_on>2023-04-18 20:16:36</sys_created_on>
         <sys_id>9ab5f9111b1e215062e50ed2cd4bcb6d</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Annual Salary</sys_name>
@@ -82,7 +82,7 @@
         <sys_scope display_value="TCGD Catalog Items">c925dd331b42e5108c5143f3cc4bcbf0</sys_scope>
         <sys_update_name>item_option_new_9ab5f9111b1e215062e50ed2cd4bcb6d</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-04-18 20:13:35</sys_updated_on>
+        <sys_updated_on>2023-04-18 21:03:00</sys_updated_on>
         <table/>
         <tooltip/>
         <type>6</type>

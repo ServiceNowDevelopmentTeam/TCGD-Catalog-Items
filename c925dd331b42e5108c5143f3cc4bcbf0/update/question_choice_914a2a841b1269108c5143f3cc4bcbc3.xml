@@ -6,7 +6,7 @@
         <question display_value="Office Location">954a2a841b1269108c5143f3cc4bcbb3</question>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2023-04-18 19:49:15</sys_created_on>
+        <sys_created_on>2023-04-18 20:16:36</sys_created_on>
         <sys_id>914a2a841b1269108c5143f3cc4bcbc3</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Waite Park</sys_name>
@@ -15,7 +15,7 @@
         <sys_scope display_value="TCGD Catalog Items">c925dd331b42e5108c5143f3cc4bcbf0</sys_scope>
         <sys_update_name>question_choice_914a2a841b1269108c5143f3cc4bcbc3</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-04-18 20:13:31</sys_updated_on>
+        <sys_updated_on>2023-04-18 21:02:41</sys_updated_on>
         <text>Waite Park</text>
         <value>waite_park</value>
     </question_choice>
