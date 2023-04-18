@@ -8,13 +8,13 @@
         <checked_out>false</checked_out>
         <cost>0</cost>
         <custom_cart/>
-        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan/>
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
         <description/>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
-        <flow_designer_flow/>
+        <flow_designer_flow display_value="REQF - Api Standard Request - S">a1b1828a1b26785062e50ed2cd4bcb8a</flow_designer_flow>
         <fulfillment_automation_level>unspecified</fulfillment_automation_level>
         <group/>
         <hide_sp>false</hide_sp>
@@ -31,13 +31,13 @@
         <name>TCGD Request Offer Letter</name>
         <no_attachment_v2>false</no_attachment_v2>
         <no_cart>false</no_cart>
-        <no_cart_v2>false</no_cart_v2>
-        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_cart_v2>true</no_cart_v2>
+        <no_delivery_time_v2>true</no_delivery_time_v2>
         <no_order>false</no_order>
         <no_order_now>false</no_order_now>
         <no_proceed_checkout>false</no_proceed_checkout>
         <no_quantity>false</no_quantity>
-        <no_quantity_v2>false</no_quantity_v2>
+        <no_quantity_v2>true</no_quantity_v2>
         <no_search>false</no_search>
         <no_wishlist_v2>false</no_wishlist_v2>
         <omit_price>false</omit_price>
@@ -48,7 +48,7 @@
         <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=684a2a801b1269108c5143f3cc4bcb3b&amp;sysparm_preview=true", "summary");</preview>
         <published_ref/>
         <recurring_frequency/>
-        <request_method/>
+        <request_method>submit</request_method>
         <roles/>
         <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
         <sc_ic_item_staging/>
@@ -69,7 +69,7 @@
         <sys_scope display_value="TCGD Catalog Items">c925dd331b42e5108c5143f3cc4bcbf0</sys_scope>
         <sys_update_name>sc_cat_item_684a2a801b1269108c5143f3cc4bcb3b</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-04-17 18:36:02</sys_updated_on>
+        <sys_updated_on>2023-04-18 15:05:32</sys_updated_on>
         <taxonomy_topic/>
         <template/>
         <template_manager_roles/>
