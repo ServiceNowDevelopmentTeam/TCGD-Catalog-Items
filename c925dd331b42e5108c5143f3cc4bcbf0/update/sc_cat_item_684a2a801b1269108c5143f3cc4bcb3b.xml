@@ -16,7 +16,7 @@
         <entitlement_script/>
         <flow_designer_flow display_value="REQF - Api Standard Request - S">a1b1828a1b26785062e50ed2cd4bcb8a</flow_designer_flow>
         <fulfillment_automation_level>unspecified</fulfillment_automation_level>
-        <group/>
+        <group display_value="AG_TCGD-HR" name="AG_TCGD-HR">d11385481b9629108c5143f3cc4bcb82</group>
         <hide_sp>false</hide_sp>
         <icon/>
         <ignore_price>true</ignore_price>
@@ -69,7 +69,7 @@
         <sys_scope display_value="TCGD Catalog Items">c925dd331b42e5108c5143f3cc4bcbf0</sys_scope>
         <sys_update_name>sc_cat_item_684a2a801b1269108c5143f3cc4bcb3b</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-04-18 21:09:49</sys_updated_on>
+        <sys_updated_on>2023-04-20 21:28:48</sys_updated_on>
         <taxonomy_topic/>
         <template/>
         <template_manager_roles/>

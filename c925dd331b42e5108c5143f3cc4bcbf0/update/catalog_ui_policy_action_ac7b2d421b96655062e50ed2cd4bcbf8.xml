@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="TCGD Request Offer Letter">684a2a801b1269108c5143f3cc4bcb3b</catalog_item>
+        <catalog_variable>IO:7ccbb9111b5e215062e50ed2cd4bcb2e</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2023-04-20 21:23:56</sys_created_on>
+        <sys_id>ac7b2d421b96655062e50ed2cd4bcbf8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>referral_bonus</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="TCGD Catalog Items">c925dd331b42e5108c5143f3cc4bcbf0</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_ac7b2d421b96655062e50ed2cd4bcbf8</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-04-20 21:28:21</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'referral_bonus' mandatory &amp; visible depending on 'position_type', 'from_staffing_agency', 'employed_other_branch' &amp; 'hiring_bonus'">6c7b2d421b96655062e50ed2cd4bcbf6</ui_policy>
+        <variable>referral_bonus</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

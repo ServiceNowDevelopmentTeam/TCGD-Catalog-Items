@@ -6,7 +6,7 @@
         <question display_value="Will the Vehicle Charge be in effect on employee's start date?">2b601f911b56615062e50ed2cd4bcbe2</question>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
-        <sys_created_on>2023-04-18 21:05:16</sys_created_on>
+        <sys_created_on>2023-04-20 21:23:50</sys_created_on>
         <sys_id>0901dbd11b56615062e50ed2cd4bcba1</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>No - I will send wage change notice to payroll at a later date</sys_name>
@@ -15,7 +15,7 @@
         <sys_scope display_value="TCGD Catalog Items">c925dd331b42e5108c5143f3cc4bcbf0</sys_scope>
         <sys_update_name>question_choice_0901dbd11b56615062e50ed2cd4bcba1</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-04-18 21:09:29</sys_updated_on>
+        <sys_updated_on>2023-04-20 21:28:25</sys_updated_on>
         <text>No - I will send wage change notice to payroll at a later date</text>
         <value>no_i_will_send_wage_change_notice_to_payroll_at_a_later_date</value>
     </question_choice>
