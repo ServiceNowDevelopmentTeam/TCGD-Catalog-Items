@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
     <io_set_item action="INSERT_OR_UPDATE">
         <order>100</order>
-        <sc_cat_item display_value="TCGD Job Posting Request">214651f31b42e5108c5143f3cc4bcb74</sc_cat_item>
+        <sc_cat_item display_value="Request a Job Posting">214651f31b42e5108c5143f3cc4bcb74</sc_cat_item>
         <sys_class_name>io_set_item</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>
         <sys_created_on>2023-04-17 21:42:48</sys_created_on>

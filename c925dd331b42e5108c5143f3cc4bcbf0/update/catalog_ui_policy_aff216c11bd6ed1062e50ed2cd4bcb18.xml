@@ -7,7 +7,7 @@
         <applies_target_record>true</applies_target_record>
         <applies_to>item</applies_to>
         <catalog_conditions>IO:f14619f31b42e5108c5143f3cc4bcb5a=yes^IO:8a4619f31b42e5108c5143f3cc4bcb85=Yes^NQIO:f14619f31b42e5108c5143f3cc4bcb5aINno,unsure^IO:806a69801b9a29108c5143f3cc4bcb5c=Yes^IO:8a4619f31b42e5108c5143f3cc4bcb85=Yes^EQ</catalog_conditions>
-        <catalog_item display_value="TCGD Job Posting Request">214651f31b42e5108c5143f3cc4bcb74</catalog_item>
+        <catalog_item display_value="Request a Job Posting">214651f31b42e5108c5143f3cc4bcb74</catalog_item>
         <conditions/>
         <description/>
         <global>true</global>

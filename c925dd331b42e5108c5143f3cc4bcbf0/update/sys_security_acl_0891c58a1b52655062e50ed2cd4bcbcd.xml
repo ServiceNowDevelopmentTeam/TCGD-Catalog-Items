@@ -3,7 +3,7 @@
         <active>false</active>
         <admin_overrides>true</admin_overrides>
         <advanced>true</advanced>
-        <condition table="sc_req_item">cat_item=214651f31b42e5108c5143f3cc4bcb74^EQ<item display_table="sc_cat_item" display_value="TCGD Job Posting Request" endquery="false" field="cat_item" goto="false" newquery="false" operator="=" or="false" value="214651f31b42e5108c5143f3cc4bcb74"/>
+        <condition table="sc_req_item">cat_item=214651f31b42e5108c5143f3cc4bcb74^EQ<item display_table="sc_cat_item" display_value="Request a Job Posting" endquery="false" field="cat_item" goto="false" newquery="false" operator="=" or="false" value="214651f31b42e5108c5143f3cc4bcb74"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <description>Allow read for records in sc_req_item, if item is tcgd job posting and group is AG_TCGD-HR</description>

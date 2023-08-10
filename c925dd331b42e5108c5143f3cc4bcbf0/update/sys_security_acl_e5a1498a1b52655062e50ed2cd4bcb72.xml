@@ -3,7 +3,7 @@
         <active>false</active>
         <admin_overrides>true</admin_overrides>
         <advanced>true</advanced>
-        <condition table="sc_req_item">cat_item=684a2a801b1269108c5143f3cc4bcb3b^EQ<item display_table="sc_cat_item" display_value="TCGD Request Offer Letter" endquery="false" field="cat_item" goto="false" newquery="false" operator="=" or="false" value="684a2a801b1269108c5143f3cc4bcb3b"/>
+        <condition table="sc_req_item">cat_item=684a2a801b1269108c5143f3cc4bcb3b^EQ<item display_table="sc_cat_item" display_value="Request an Offer Letter" endquery="false" field="cat_item" goto="false" newquery="false" operator="=" or="false" value="684a2a801b1269108c5143f3cc4bcb3b"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <description>Allow read for records in sc_req_item, if item is tcgd offer letter and opened by me.</description>

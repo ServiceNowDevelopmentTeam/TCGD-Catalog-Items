@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
     <catalog_ui_policy_action action="INSERT_OR_UPDATE">
-        <catalog_item display_value="TCGD Job Posting Request">214651f31b42e5108c5143f3cc4bcb74</catalog_item>
+        <catalog_item display_value="Request a Job Posting">214651f31b42e5108c5143f3cc4bcb74</catalog_item>
         <catalog_variable>IO:458f8e0d1b96ed1062e50ed2cd4bcb6a</catalog_variable>
         <cleared>false</cleared>
         <disabled>ignore</disabled>

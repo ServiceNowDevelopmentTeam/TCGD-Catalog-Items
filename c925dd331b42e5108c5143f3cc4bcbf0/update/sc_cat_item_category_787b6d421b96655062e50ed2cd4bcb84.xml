@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
-        <sc_cat_item display_value="TCGD Request Offer Letter">684a2a801b1269108c5143f3cc4bcb3b</sc_cat_item>
+        <sc_cat_item display_value="Request an Offer Letter">684a2a801b1269108c5143f3cc4bcb3b</sc_cat_item>
         <sc_category display_value="Human Resources">c40d85081b3f701062e50ed2cd4bcbe3</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>Terry.Lillo</sys_created_by>

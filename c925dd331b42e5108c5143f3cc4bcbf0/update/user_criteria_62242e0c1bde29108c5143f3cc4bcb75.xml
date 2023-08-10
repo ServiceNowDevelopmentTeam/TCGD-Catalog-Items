@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="user_criteria">
+    <user_criteria action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <company>4db51c9f1b021050f5a3635bbc4bcbc3,3db59c9f1b021050f5a3635bbc4bcb1c,f9c8b7801b633410df31da49cc4bcb15</company>
+        <department/>
+        <group/>
+        <location/>
+        <match_all>false</match_all>
+        <name>Company Group: TCGD Companies</name>
+        <role/>
+        <script/>
+        <sys_class_name>user_criteria</sys_class_name>
+        <sys_created_by>Terry.Lillo</sys_created_by>
+        <sys_created_on>2023-04-14 20:24:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>62242e0c1bde29108c5143f3cc4bcb75</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Company Group: TCGD Companies</sys_name>
+        <sys_package display_value="TCGD Catalog Items" source="c925dd331b42e5108c5143f3cc4bcbf0">c925dd331b42e5108c5143f3cc4bcbf0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TCGD Catalog Items">c925dd331b42e5108c5143f3cc4bcbf0</sys_scope>
+        <sys_update_name>user_criteria_62242e0c1bde29108c5143f3cc4bcb75</sys_update_name>
+        <sys_updated_by>Terry.Lillo</sys_updated_by>
+        <sys_updated_on>2023-04-14 20:24:28</sys_updated_on>
+        <user/>
+    </user_criteria>
+</record_update>

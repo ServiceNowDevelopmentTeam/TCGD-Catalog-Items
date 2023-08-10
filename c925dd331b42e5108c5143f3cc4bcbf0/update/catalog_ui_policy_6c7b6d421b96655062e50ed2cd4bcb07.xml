@@ -7,7 +7,7 @@
         <applies_target_record>true</applies_target_record>
         <applies_to>item</applies_to>
         <catalog_conditions>IO:f04a2a841b1269108c5143f3cc4bcb68ANYTHING^IO:914a2a841b1269108c5143f3cc4bcbd6ANYTHING^IO:7ccbb9111b5e215062e50ed2cd4bcb2eANYTHING^IO:401bf5dd1b1e215062e50ed2cd4bcb1eANYTHING^IO:5d5cf9511b5e215062e50ed2cd4bcb84ANYTHING^IO:334e3d151b5e215062e50ed2cd4bcba6ANYTHING^EQ</catalog_conditions>
-        <catalog_item display_value="TCGD Request Offer Letter">684a2a801b1269108c5143f3cc4bcb3b</catalog_item>
+        <catalog_item display_value="Request an Offer Letter">684a2a801b1269108c5143f3cc4bcb3b</catalog_item>
         <conditions/>
         <description/>
         <global>true</global>
