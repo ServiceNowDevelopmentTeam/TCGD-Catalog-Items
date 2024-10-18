@@ -14,7 +14,7 @@
         <description/>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
-        <flow_designer_flow display_value="REQF - Api Standard Request - S">a1b1828a1b26785062e50ed2cd4bcb8a</flow_designer_flow>
+        <flow_designer_flow display_value="Api-Standard-Request">a1b1828a1b26785062e50ed2cd4bcb8a</flow_designer_flow>
         <fulfillment_automation_level>unspecified</fulfillment_automation_level>
         <group display_value="AG_TCGD-HR" name="AG_TCGD-HR">d11385481b9629108c5143f3cc4bcb82</group>
         <hide_sp>false</hide_sp>
@@ -107,6 +107,7 @@
         <u_variables/>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
+        <version>15</version>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
         <visible_standalone>true</visible_standalone>
